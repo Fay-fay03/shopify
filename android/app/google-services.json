@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789766697920",
+    "project_id": "stocky-31ec0",
+    "storage_bucket": "stocky-31ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789766697920:android:54097fa0391163a542ce25",
+        "android_client_info": {
+          "package_name": "com.example.shopify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZBnRq3HMwJOCqo6Lxf1l4teojmrmcZIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
